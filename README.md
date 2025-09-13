@@ -1,18 +1,93 @@
 <h1 align="center">Hi 👋, I'm Suman Grewal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-livid-mu.vercel.app/](https://my-portfolio-livid-mu.vercel.app/)
+---
 
-- 📫 How to reach me **sumandeepkaur20048@gmail.com**
+### 🌐 Portfolio & Contact  
+- 👨‍💻 All of my projects: [My Portfolio](https://my-portfolio-livid-mu.vercel.app/)  
+- 📫 Reach me at: **sumandeepkaur20048@gmail.com**  
+- 📄 Know about my experiences: [My Resume](https://hosturl.info/739y9H)  
 
-- 📄 Know about my experiences [https://hosturl.info/739y9H](https://hosturl.info/739y9H)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/sumandeep kaur grewal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumandeep kaur grewal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumandeep-kaur-grewal" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+</a>
+<a href="mailto:sumandeepkaur20048@gmail.com" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumandeep2004&show_icons=true&locale=en&layout=compact" alt="sumandeep2004" /></p>
+### 🛠️ Languages and Tools  
+
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="50" /><br>HTML
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="50" /><br>CSS
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=javascript" width="50" /><br>JavaScript
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=react" width="50" /><br>React
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50" /><br>Bootstrap
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" /><br>Node.js
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=express" width="50" /><br>Express
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" /><br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="50" /><br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="50" /><br>Git
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java" width="50" /><br>Java
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="50" /><br>C++
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="50" /><br>C
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="50" /><br>Python
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" /><br>VS Code
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumandeep2004&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumandeep2004&show_icons=true&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumandeep2004&theme=tokyonight" alt="streak" />
+</p>
