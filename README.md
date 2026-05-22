@@ -82,8 +82,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumandeep2004&show_icons=true&layout=compact&theme=tokyonight" height="160"/>
-</p>
+
 
